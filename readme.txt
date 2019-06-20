@@ -1,2 +1,1 @@
-it is a good day
-yes,it is a good day
+hi,nice to meet you
